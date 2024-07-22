@@ -1,5 +1,8 @@
 export default function Orders(){
     return (
-        <div>Orders</div>
+        <div>
+            <div>Order haahaha</div>
+            <p>Order hihihi</p>
+        </div>
     )
 }
