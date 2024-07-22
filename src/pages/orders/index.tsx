@@ -3,7 +3,9 @@ export default function Orders(){
         <div>
             <div>Order haahaha</div>
 
-
+    <div>
+        <p>an cut khong</p>
+    </div>
 
 
 
